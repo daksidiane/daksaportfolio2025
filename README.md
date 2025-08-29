@@ -1,7 +1,7 @@
 # daksaportfolio2025
 # Portfolio Game (WebGL)
 
-**Play in browser:** [https://…](https://daksidiane.github.io/daksaportfolio2025/)
+**Play in browser:** https://daksidiane.github.io/daksaportfolio2025/
 
 This is the interactive portfolio of UI/UX Lead Daria Danilko. The goal is to showcase system-level UX achievements, pipelines, and a product approach in the form of a short, pleasant demo game.
 
@@ -42,7 +42,7 @@ The repository code is licensed under Apache-2.0. See LICENSE
 ---
 # Портфолио-игра (WebGL)
 
-**Играть в браузере:** [https://…  ](https://daksidiane.github.io/daksaportfolio2025/)
+**Играть в браузере:** https://daksidiane.github.io/daksaportfolio2025/
 > Это интерактивное портфолио UI/UX-лида Данилко Дарьи. Цель — показать системные UX-достижения, пайплайны и подход к продукту в формате короткой, приятной демо-игры.
 
 ## Управление и навигация
